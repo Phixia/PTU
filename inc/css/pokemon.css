@@ -1,0 +1,349 @@
+div.shiny {
+	background: url('/inc/imgs/selection.gif') repeat center center;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	float: left;
+	margin: 10px;
+	padding: 1px;
+	width: 578px;
+}
+div.shiny div.pokemon {
+	margin: 0;
+	width: 558px;
+}
+div.pokemon {
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	float: left;
+	font: 16px Arial, sans-serif;
+	margin: 5px 0;
+	padding: 10px;
+	position: relative;
+	text-shadow: 0px 0px 1px #000000;
+	width: 575px;
+}
+div.pokemon.pokemon_odd {
+	float: right;
+}
+
+div.pokemon div.name {
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+div.pokemon div.level {
+	float: right;
+	font-size: 20px;
+	font-weight: bold;
+}
+div.pokemon div.elemental {
+	background-color: rgba(50,50,50,0.7);
+	border-bottom: 1px solid #808080;
+	border-left: 1px solid #808080;
+	border-right: 1px solid #808080;
+	cursor: pointer;
+	float: right;
+	font-size: 14px;
+	font-weight: bold;
+	height: 16px;
+	margin: -10px 10px 0 0;
+	padding: 10px 5px 5px;
+	position: relative;
+	width: 135px;
+}
+div.pokemon div.elemental div.slider {
+	height: 0;
+	left: 0;
+	margin: 5px 0 0 -1px;
+	overflow: hidden;
+	position: absolute;
+	transition: height 1s;
+	-webkit-transition: height 1s;
+	width: 147px;
+}
+div.pokemon div.elemental:hover div.slider {
+	height: 500px;
+}
+div.pokemon div.elemental table.elemental_matches {
+	width: 147px;
+}
+div.pokemon div.elemental table.elemental_matches tr td {
+	background-color: rgba(0,0,0,0.8);
+	border-bottom: 1px solid #808080;
+	border-right: 1px solid #808080;
+	padding: 5px;
+	text-align: center;
+}
+div.pokemon div.elemental table.elemental_matches tr:first-child td {
+	border-top: 1px solid #808080;
+}
+div.pokemon div.elemental table.elemental_matches tr td:first-child {
+	border-left: 1px solid #808080;
+}
+
+div.mega_button {
+	background: -moz-linear-gradient(top, rgba(222,108,169,0.8) 0%, rgba(0,169,205,0.8) 50%, rgba(227,232,47,0.8) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(222,108,169,0.8)), color-stop(50%,rgba(0,169,205,0.8)), color-stop(100%,rgba(227,232,47,0.8))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(222,108,169,0.8) 0%,rgba(0,169,205,0.8) 50%,rgba(227,232,47,0.8) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(222,108,169,0.8) 0%,rgba(0,169,205,0.8) 50%,rgba(227,232,47,0.8) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, rgba(222,108,169,0.8) 0%,rgba(0,169,205,0.8) 50%,rgba(227,232,47,0.8) 100%); /* IE10+ */
+	background: linear-gradient(to bottom, rgba(222,108,169,0.8) 0%,rgba(0,169,205,0.8) 50%,rgba(227,232,47,0.8) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ccde6ca9', endColorstr='#cce3e82f',GradientType=0 ); /* IE6-9 */
+
+	border: 1px solid #000000;
+	border-radius: 5px;
+	color: rgba(0,0,0,0.75);
+	cursor: pointer;
+	float: left;
+	font-weight: bold;
+	margin: -4px 0 0 5px;
+	padding: 5px 10px;
+	text-shadow: none;
+}
+div.pokemon div.main_stats_container {
+	float: left;
+	width: 358px;
+}
+div.pokemon div.main_stats_container div.left_stats_container {
+	float: left;
+}
+div.pokemon div.types {
+	font-weight: bold;
+	margin-top: 5px;
+}
+div.pokemon img.pokemon_image {
+	float: right;
+}
+div.pokemon input {
+	background-color: rgba(10,10,10,0.7);
+	border: 1px solid #000000;
+	color: #FFFFFF;
+	padding: 1px;
+}
+div.pokemon input.numeric {
+	font-size: 16px;
+	text-align: center;
+	width: 35px;
+}
+div.pokemon input.button {
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+div.pokemon div.nature {
+	margin-top: 5px;
+}
+div.pokemon div.nature span.title {
+	font-weight: bold;
+}
+
+div.pokemon div.abilities {
+	cursor: pointer;
+	margin-top: 5px;
+	width: 210px;
+}
+div.pokemon div.abilities div.comma {
+	float: left;
+	margin-right: 5px;
+}
+div.pokemon div.abilities div.basic_ability, div.pokemon div.abilities div.high_ability, div.pokemon div.abilities div.mega_ability {
+	float: left;
+}
+div.pokemon div.abilities div.basic_ability:hover div.basic_details, div.pokemon div.abilities div.high_ability:hover div.high_details, div.pokemon div.abilities div.mega_ability:hover div.mega_details {
+	display: block;
+}
+div.pokemon div.abilities div.mega_ability {
+	display: none;
+}
+div.pokemon div.abilities div.mega_ability.show {
+	display: block;
+}
+
+div.pokemon div.abilities div.basic_details, div.pokemon div.abilities div.high_details, div.pokemon div.abilities div.mega_details {
+	background-color: rgba(0,0,0,0.8);
+	display: none;
+	margin-left: -3px;
+	padding: 3px;
+	position: absolute;
+	width: 300px;
+}
+
+table.hp_container {
+	border-collapse: collapse;
+	float: right;
+	margin: 5px 0 0 0;
+}
+table.hp_container tr th {
+	
+}
+table.hp_container tr td {
+	padding: 2px;
+}
+table.hp_container tr td input.button {
+	font-size: 10px;
+	padding: 1px 0;
+	width: 70px;
+}
+html.Chrome table.hp_container tr td input.button {
+	font-size: 11px;
+	padding: 2px 0;
+}
+table.hp_container tr td.current_hp {
+	text-align: center;
+}
+table.hp_container tr td table.multiplier_table {
+	margin: 10px auto;
+}
+
+div.pokemon table.stats {
+	border-collapse: collapse;
+	float: left;
+	margin-top: 15px
+}
+div.pokemon table.stats tr td {
+	padding: 1px 3px;
+}
+div.pokemon table.stats tr td:first-child {
+	width: 45px;
+}
+div.pokemon table.stats tr td input {
+	padding: 1px 0;
+	width: 20px;
+}
+
+div.pokemon table.capabilities {
+	border-collapse: collapse;
+	float: left;
+	margin-top: 15px;
+}
+div.pokemon table.capabilities tr td {
+	padding: 1px 2px;
+}
+div.pokemon table.capabilities tr td.capability_name {
+}
+div.pokemon table.capabilities tr td div.capability {
+	border-left: 1px solid #FFFFFF;
+	float: left;
+	margin: 5px 0;
+	padding: 0 5px;
+	position: relative;
+}
+div.pokemon table.capabilities tr td div.capability:first-child {
+	border-left: none;
+	padding-left: 0
+}
+div.pokemon table.capabilities tr td div.capability div.capability_description {
+	background-color: rgba(0,0,0,0.8);
+	display: none;
+	left: 0;
+	padding: 3px;
+	position: absolute;
+	width: 300px;
+}
+div.pokemon table.capabilities tr td div.capability:hover div.capability_description {
+	display: block;
+}
+
+div.pokemon table.misc_info {
+	border-collapse: collapse;
+	float: right;
+	margin: 15px 10px 0 0;
+}
+div.pokemon table.misc_info tr td {
+	padding: 1px 2px;
+}
+div.pokemon table.misc_info tr td:first-child {
+}
+
+div.pokemon table.evasion {
+	border-collapse: collapse;
+	float: right;
+	margin: 15px 25px 0 0;
+}
+div.pokemon table.evasion tr td {
+	padding: 2px;
+}
+div.pokemon table.evasion tr td:first-child {
+	text-align: right;
+}
+
+div.move_tabs {
+	width: 100%;
+}
+div.move_tabs div.move_tab {
+	border-left: 1px solid #404040;
+	border-right: 1px solid #404040;
+	border-top: 1px solid #404040;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	color: #DDDDDD;
+	cursor: pointer;
+	float: left;
+	margin-right: 3px;
+	padding: 5px;
+}
+div.move_tabs div.move_tab.selected {
+	background-color: rgba(0,0,0,0.6);
+	border-color: #202020;
+	/*box-shadow: inset 0 0 10px #FFFFFF;*/
+	color: #FFFFFF;
+}
+
+div.pokemon table.moves {
+	border-collapse: collapse;
+	width: 100%;
+}
+div.pokemon table.moves tr {
+	display: none;
+}
+div.pokemon table.moves tr.show {
+	display: table-row;
+}
+div.pokemon table.moves tr th {
+	background-color: rgba(0,0,0,0.6);
+	border-top: 1px solid #202020;
+	border-bottom: 1px solid #202020;
+	border-right: 1px solid #202020;
+	font-weight: bold;
+}
+div.pokemon table.moves tr th:first-child {
+	border-left: 1px solid #202020;
+}
+div.pokemon table.moves tr td {
+	background-color: rgba(0,0,0,0.6);
+	border-bottom: 1px solid #202020;
+	border-right: 1px solid #202020;
+	cursor: pointer;
+	font-size: 13px;
+	padding: 1px 3px;
+	text-align: center;
+}
+div.pokemon table.moves tr td:first-child {
+	border-left: 1px solid #202020;
+	text-align: left;
+}
+div.pokemon table.moves tr td div.full_text {
+	background-color: rgba(0,0,0,0.8);
+	display: none;
+	margin-left: -4px;
+	padding: 3px;
+	position: absolute;
+	width: 454px;
+	z-index: 10;
+}
+div.pokemon table.moves tr:hover td div.full_text {
+	display: block;
+}
+div.pokemon table.moves tr td input {
+	margin: 5px 0;
+}
+div.pokemon table.moves tr td div.random_move span.name {
+	font-weight: bold;
+	margin-right: 10px;
+}

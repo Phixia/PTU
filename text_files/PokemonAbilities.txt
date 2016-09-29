@@ -1,0 +1,1202 @@
+Adaptability
+Static
+Effect: When using Moves with a
+Damage Dice Roll that are the same
+elemental Type as the Pokemon with
+Adaptability, add 2 STAB instead of 1.
+Aftermath
+Trigger
+Effect: When the Pokemon is reduced
+to 0 HP or less, they create a 5-meter
+Burst. Everything in the Burst loses ¼ of
+their full HP. Do not apply weakness or
+resistance. Do not apply stats.
+Air Lock
+Cast – Hourly
+Keyword: Sustain
+Effect: The weather is set to normal
+as long as the Pokemon with Air Lock
+wants it to remain that way.
+Analytic
+Cast - Hourly
+Effect: For the next 5 rounds, if the
+user’s turn comes immediately after
+any of its target’s, in the queue, the user
+deals +1 STAB on Moves with Damage
+Dice Rolls, ignoring the Type of Move
+used.
+Anger Point
+Trigger
+Effect: When the Pokemon receives a
+Critical Hit, raise their Attack 6 Combat
+Stages.
+Anticipation
+Cast – Hourly
+Effect: During an encounter you may
+target a Pokemon. Roll 1d20; on roll,
+the target reveals if they have any
+Moves that are Super-Effective against
+the Pokemon with Anticipation; on
+11 or better, the target reveals up to 3
+moves that are Super-Effective against
+the Pokemon with Anticipation; on
+16 or better, the target reveals up to 5
+moves that are Super-Effective against
+the Pokemon with Anticipation and all
+of those Moves must roll +1 during
+Accuracy Check to hit the Pokemon
+with Anticipation.
+Arena Trap
+Cast – Daily
+Effect: A large wall of sand, 10-meters
+high surrounds the encounter. The
+diameter of the Arena Trap must be at
+least 10-meters but cannot be greater
+then 40-meters. There must be sufficient
+ground around to manipulate or the
+Ability cannot be used. The walls are
+constantly shifting making it impossible
+to climb. If a section of the wall is
+destroyed, it immediately restores itself. If the caster is felled or returned to a
+Poke Ball, the Arena Trap falls.
+Bad Dreams
+Static
+Effect: Anything sleeping within
+30-meters of the Pokemon with Bad
+Dreams lose 1/8th of their full HP at the
+beginning of each round.
+Battle Armor
+Static
+Keyword: Immune
+Effect: Critical Hits
+Big Pecks
+Static
+Keyword: Immune
+Effect: The user cannot have its Defense
+Stat lowered. The user cannot have its
+Defense Combat Stages lowered.
+Blaze
+Trigger
+Keyword: Last Chance
+Effect: Fire
+Chlorophyll
+Trigger - Hourly
+Effect: While in Sunny Weather, the
+Speed stat of the Pokemon is doubled.
+Clear Body
+Static
+Effect: The Pokemon’s Combat Stages
+may not be lowered by the effect of
+Abilities or Moves. Status effects may
+still alter their Combat Stages.
+Cloud Nine
+Cast – Hourly
+Effect: Return the Weather of the field to
+Normal if the Pokemon with Cloud Nine
+is a higher level then the Pokemon who
+caused the weather effect.
+Color Change
+Trigger
+Effect: Whenever the Pokemon is hit by
+a damage-dealing Move, the Pokemon
+with Color Change will have its Type
+changed to the same Type as that of the
+Move it was damaged by.
+Compound Eyes
+Static
+Effect: The user needs -3 to hit on any
+Accuracy Check.
+Contrary
+Static
+Effect: If something would raise the
+user’s Combat Stages, it instead lowers
+the user’s Combat Stages by the same
+amount. If something would lower the
+user’s Combat Stages, it instead raises
+the user’s Combat Stages by the same
+amount.
+Cursed Body
+Cast - Daily
+Effect: When a foe hits the Pokemon
+with Cursed Body with a melee Move,
+that Move becomes Disabled after
+damaged is dealt.
+Cute Charm
+Trigger - Daily
+Effect: When an opposite gendered foe
+attacks the Pokemon with Cute Charm,
+they become Infatuated after damaged is
+dealt.
+Damp
+Static
+Effect: The Moves Selfdestruct and
+Explosion may not be used when
+a Pokemon with Damp is within
+20-meters of Selfdestruct or Explosion’s
+user. The Ability Aftermath may not be
+activated when a Pokemon with Damp
+is within 20-meters of the Pokemon
+attempting to activate Aftermath.
+Dark Art
+Trigger
+Keyword: Last Chance
+Effect: Dark
+Defeatist
+Trigger
+Effect: When below 50% HP, this
+Pokemon’s Attack and Special Attack
+is set at -3 Combat Stages. It cannot
+be raised or lowered unless the user
+recovers HP above 50% HP.
+Defiant
+Static
+Effect: Whenever the user has a Combat
+Stage lowered, by something other than
+its own Moves or Abilities, the user’s
+Attack is raised 2 Combat Stages for
+each Combat Stage it was lowered.
+Download
+Static
+Effect: When the Pokemon with
+Download targets with a damage-dealing
+Move, the target must reveal which of its
+defenses are lower. When the Pokemon
+with Download attacks a foe, they are
+treated as if their Attack is raised 1
+Combat Stage if the target’s Defense is
+lower then the target’s Special Defense.
+When the Pokemon with Download
+attacks a foe, they are treated as if their
+Special Attack is raised 1 Combat Stage
+if the target’s Special Defense is lower
+then the target’s Defense.
+Drizzle
+Cast – Hourly
+Keyword: Sustain, Weather
+Effect: As a Free Action, the Pokemon
+uses the Move Rain Dance. The Rain
+does not go away like normal Rain;
+instead to Sustain, the Pokemon must
+remain out of a Poke Ball and must be
+above 0 HP. The Raining effect can
+be replaced by other major Weather
+conditions.
+Drought
+Cast – Hourly
+Keyword: Sustain, Weather
+Effect: As a Free Action, the Pokemon
+uses the Move Sunny day. The Sun does
+not go away like normal Sun; instead to
+Sustain, the Pokemon must remain out
+of a Poke Ball and must be above 0 HP.
+The Sunny effect can be replaced by
+other major Weather conditions.
+Dry Skin
+Static
+Effect: While in Sunny Weather, the user
+loses 1/8 of its full HP at the beginning
+of each round. While in Rainy Weather,
+the user gains 1/8 of its full HP at the
+beginning of each round. Fire Type
+Moves made towards the Pokemon with
+Dry Skin deal damage as if the offender
+is 1 Combat Stage higher in whichever
+Attack Stat the Move consults. Water
+Type Moves heal the Pokemon with Dry
+Skin by calculating damage as if Dry
+Skin’s user is resistant to Water Moves
+then healing that much HP instead of
+dealing damage.
+Early Bird
+Static
+Effect: When making Sleep Checks, the
+Sleep Check counter starts at 11.
+Effect Spore
+Trigger
+Effect: When hit by a melee Move, roll
+1d20; on a result of 15-16, the attacker
+is Poisoned; on a result of 17-18, the
+attacker is Paralyzed; on a result of 19-
+20, the attacker falls Asleep.
+Filter
+Static
+Effect: When the user is hit by a Super-
+Effective attack, the attack deals 1.5x
+damage instead of x2 damage. If the user
+is hit by a Super-Super-Effective attack,
+the attack deals x3 damage instead of x4
+damage.
+Flame Body
+Trigger - Daily
+Effect: When a foe hits the Pokemon
+with Flame Body with a melee Move,
+they become Burned after damaged is
+dealt.
+Flare Boost
+Static
+Effect: When Burned, the user’s Special
+Attack is raised by 2 Combat Stages. If
+the user is cured of its Burn, its Special
+Attack is lowered by 2 Combat Stages.
+Flash Fire
+Static
+Effect: The user does not take damage
+from Fire Type Moves and may not be
+Frozen. If the user is hit by a Fire Type
+Move, the user adds +1/2 STAB to the
+next Fire Type Move they use in the
+encounter.
+Flower Gift
+Trigger - Hourly
+Keyword: Burst
+Effect: If it is Sunny, Flower Gift creates
+a 4-meter Burst. The user and all of
+their allies in Sunny Weather have their
+Attack raised 2 Combat Stages and have
+their Special Defense raised 2 Combat
+Stages.
+Focus
+Trigger
+Keyword: Last Chance
+Effect: Fighting
+Forecast
+Trigger
+Effect: The user’s Type changes
+depending on the Weather the Pokemon
+is in. It changes to Fire Type if it is
+Sunny, Ice Type if it is Hailing, Water
+Type if it is Rainy. It returns to Normal
+Type if it is any other condition. If there
+are multiple Weather Effects on the field,
+choose one type for the user to be that
+corresponds with an existing Weather
+Effect.
+Forewarn
+Cast - Hourly
+Effect: The Move with the highest
+Damage Dice Roll known by the
+targeted foe is revealed. If there is a tie,
+all tied Moves are revealed. The Moves
+revealed must roll +2 to hit during
+Accuracy Checks.
+Freezing Point
+Trigger
+Keyword: Last Chance
+Effect: Ice
+Friend Guard
+Cast - Daily
+Effect: For the rest of the encounter,
+any adjacent allied Pokemon who
+would be hit by any Moves that have
+a Damage Dice Roll of more than one
+die, including STAB or extra effects, the
+enemy does not include any STAB in
+their Damage Dice Roll(s).
+Frisk
+Cast - Hourly
+Effect: The adjacent target reveals what
+item they are holding, if any.
+Gather
+Cast - Weekly
+Effect: 1d2 Unown appear. They are not
+immediately hostile.
+Gluttony
+Trigger
+Effect: When given a consumable item,
+the Pokemon immediately eats it.
+Guts
+Trigger - Hourly
+Effect: When Burned, Poisoned,
+Paralyzed, Frozen or put to Sleep, the
+user’s Attack is raised 2 Combat Stages.
+When a Pokemon loses the status, their
+Combat Stages are lowered what they
+raised.
+Harvest
+Trigger - At-Will
+Effect: Whenever the user eats a Berry,
+flip a coin. On heads, the user produce
+another berry of the exact same variety
+as a held item available for use next
+turn. On tails nothing happens. When
+in Sunny Weather, Harvest will always
+activate successfully.
+Haunt
+Trigger
+Keyword: Last Chance
+Effect: Ghost
+Healer
+Cast - Hourly
+Effect: One adjacent target suffering
+from at least one status affliction is
+instantly cured of all status afflictions.
+Heat Proof
+Static
+Effect: The user halves the damage they
+would take from Fire Type Moves after
+they apply weakness and resistance.
+Heavy Metal
+Static
+Effect: When referring to Weight
+Classes, treat the Pokemon as if it is 2
+Weight Classes higher.
+Honey Gather
+Cast - Daily
+Effect: The user finds Honey if they are
+not holding an item.
+Huge Power
+Static
+Effect: The Pokemon’s base attack
+stat is doubled. This may double any
+bonuses from Nature or Vitamins, but
+not bonuses from Features.
+Hustle
+Static
+Effect: The user’s Attack is raised 1
+Combat Stages. The user must roll +2
+during Accuracy Checks to hit with
+attack that consult the Attack stat.
+Hydration
+Trigger
+Effect: When in Rainy Weather, the user
+is healed of Paralysis, Burns, Poison,
+Freezing or Sleep.
+Hyper Cutter
+Static
+Effect: The user’s Attack Combat Stages
+may not be lowered.
+Ice Body
+Trigger
+Effect: While in Hailing Weather, the
+user gains 1/16 of their full HP at the
+beginning of each of their turns.
+Illuminate
+Static
+Effect: Moves that target the user must
+roll +2 to hit during Accuracy Check.
+Illusion
+Trigger - At-Will
+Effect: Whenever you this Pokemon
+is sent out of its Poke Ball, you may
+choose another Pokemon that you have
+with you. The user now looks exactly
+like that Pokemon from your team until
+the user takes Damage as a result of a
+Move. This change is aesthetic and does
+not affect typing or Moves. You may
+dismiss Illusion whenever you want.
+Immunity
+Static
+Keyword: Immune
+Effect: Poisoning
+Imposter
+Cast - Daily
+Effect: When Ditto is sent out, it may
+use the Move Transform as a free action.
+If the target of Transform has any
+modified Combat Stages, apply these
+Combat Stages to Ditto. One of the
+target’s Abilities is randomly assigned to
+Ditto until Ditto uses Transform again.
+Infiltrator
+Static
+Effect: The user ignores Walls and
+Hazards.
+Inner Focus
+Static
+Keyword: Immune
+Effect: Flinching
+Insomnia
+Static
+Keyword: Immune
+Effect: Sleep
+Intimidate
+Cast - Hourly
+Effect: Lower one target’s Attack 1
+Combat Stage.
+Iron Barbs
+Static
+Effect: When hit by a Melee Ranged
+Move, the attacking foe loses 1/8 of
+their full HP. Do not apply weakness or
+resistance. Do not apply stats.
+Iron Fist
+Static
+Effect: Bullet Punch, Comet
+Punch, Dizzy Punch, Drain Punch,
+Dynamicpunch, Fire Punch, Meteor
+Mash, Shadow Punch, Sucker Punch,
+Ice Punch, Mega Punch, Sky Uppercut,
+Thunderpunch, Focus Punch, and
+Hammer Arm deal an additional +1/2
+STAB when the Pokemon with Iron Fist
+uses the Move as an attack.
+Justified
+Trigger - At-Will
+Effect: When hit by a damaging Dark
+Type Move, the user may raise its Attack
+1 Combat Stage.
+Keen Eye
+Static
+Effect: The Pokemon cannot have its
+Accuracy Checks negatively affected
+by anything except Defense, Special
+Defense or Speed stats.
+Klutz
+Static
+Effect: The Pokemon with Klutz
+may drop held items, at-will, as a
+Free Action, even if they have Status
+Afflictions. The Pokemon may also hold
+an item, and ignore any effects the item
+has.
+Landslide
+Trigger
+Keyword: Last Chance
+Effect: Ground
+Last Chance
+Trigger
+Keyword: Last Chance
+Effect: Normal
+Leaf Guard
+Trigger
+Effect: While in Sunny Weather, the user
+is healed of Paralysis, Burns, Poison,
+Freezing or Sleep.
+Levitate
+Static
+Effect: The Pokemon is immune to
+Ground Type Moves.
+Light Metal
+Static
+Effect: When referring to Weight
+Classes, treat the Pokemon as if it is 2
+Weight Classes lower.
+Lightningrod
+Static
+Effect: If any other Pokemon within
+25-meters uses a Ranged Electric
+Type Move, the Move is drawn to the
+Pokemon with Lightning Rod without
+fail, and it cannot miss. This negates
+Lock-On or Mind Reader. This Pokemon
+is immune to damage and effects from
+Electric Moves, and each time they are
+hit by an Electric Move, the Pokemon’s
+Special Attack is raised 1 Combat Stage.
+Limber
+Static
+Keyword: Immune
+Effect: Paralysis
+Liquid Ooze
+Static
+Effect: When the Pokemon with Liquid
+Ooze is damaged or looses life as a
+result of Absorb, Drain Punch, Giga
+Drain, Horn Leech, Leech Life, Leech
+Seed or Mega Drain, the Pokemon using
+one of the above Moves lose life instead
+of gaining life as described per Move.
+Do not apply weakness or resistance. Do
+not apply stats.
+Mach Speed
+Trigger
+Keyword: Last Chance
+Effect: Flying
+Magic Bounce
+Trigger - Hourly
+Effect: When the user is hit by a Melee
+- No Damage or Ranged - No Damage
+Move, it may reflect the Move back to
+the offender. This Ability may be used
+to change the placement of any Hazards
+being set within 10 meters of the user as
+well.
+Magic Guard
+Static
+Effect: Whenever the user would lose
+HP or take damage that isn’t a result of a
+Damage Dice Roll the user does not lose
+HP or take Damage. This includes, but
+is not limited to, Weather, Leech Seed,
+Afflictions, Traps, Recoil, etc.
+Magma Armor
+Static
+Keyword: Immune
+Effect: Freezing
+Magnet Pull
+Cast - Hourly
+Effect: Target Steel Type pokemon
+may not move more then 20-meters
+away from the user, or target Steel Type
+pokemon may not move closer then
+20-meters to the user.
+Marvel Scale
+Static
+Effect: When Asleep, Paralyzed, Burned,
+Frozen or Poisoned, Marvel Scale raises
+the user’s Special Defense 2 Combat
+Stages and raises the user’s Defense
+2 Combat Stages. The Combat Stages
+return to normal if the user is cured of
+their status affliction.
+Mind Mold
+Trigger
+Keyword: Last Chance
+Effect: Psychic
+Minus
+Static
+Effect: When an ally with the Ability
+Plus is within 10 meters, they are treated
+as if their Special Attack is raised 2
+Combat Stages. The ally with Plus can
+only have one Minus Ability applied to
+its Special Attack.
+Mold Breaker
+Cast - Hourly
+Effect: The target’s Ability is disabled,
+it cannot be used until the end of the
+encounter.
+Moody
+Cast - Required on first turn of an
+Encounter.
+Effect: Cast Moody again in 1d4+1
+rounds. Roll 1d6; on 1, re-roll; on 2,
+raise the user’s Attack 2 Combat Stages;
+on 3, raise the user’s Defense 2 Combat
+Stages; on 4, raise the user’s Special
+Attack 2 Combat Stages; on 5, raise the
+user’s Special Defense 2 Combat Stages;
+on 6, raise the user’s Speed 2 Combat
+Stages. Then roll 1d6; on 1, re-roll; on
+2, lower the user’s Attack 1 Combat
+Stages; on 3, lower the user’s Defense
+1 Combat Stages; on 4, lower the user’s
+Special Attack 1 Combat Stages; on
+5, lower the user’s Special Defense 1
+Combat Stages; on 6, lower the user’s
+Speed 1 Combat Stages.
+Motor Drive
+Static
+Effect: The pokemon is immune to
+damage and the effects of Electric Type
+Moves. Whenever an Electric Type
+Move hits the pokemon, raise their
+Speed 1 Combat Stage.
+Mountain Peak
+Trigger
+Keyword: Last Chance
+Effect: Rock
+Moxie
+Static
+Effect: Whenever a user’s Move causes
+a target to faint, it may raise its Attack
+Combat Stage by 1.
+Multiscale
+Static
+Effect: When at full HP, when taking
+damage from a Move, half the total
+damage before applying weakness
+and resistance, before applying your
+Defenses.
+Multitype
+Cast - At Will
+Effect: Arceus changes its Elemental
+Type to any of the Elemental Types.
+Multitype cannot be copied or disabled.
+Mummy
+Static
+Effect: Whenever the user is a Legal
+Target of a Melee Range Move, the
+offender replaces all of its Abilities with
+Mummy for 1d6+2 rounds.
+Natural Cure
+Cast - Hourly
+Effect: The Pokemon is cured of
+Paralysis, Poisoning, Burns, Freezing
+and Sleep when returned to its Poke
+Ball.
+No Guard
+Cast - At Will
+Effect: Once used, No Guard is in effect
+until the end of the Encounter. All
+Moves you perform cannot miss and all
+Moves that target you cannot miss.
+Normalize
+Cast - At Will
+Effect: Once used, Normalize is in
+effect until the end of the Encounter.
+All Moves performed by the Pokemon
+are considered Normal Type instead of
+whatever Type they normally are.
+Oblivious
+Static
+Keyword: Immune
+Effect: Infatuation.
+Overcharge
+Trigger
+Keyword: Last Chance
+Effect: Electric
+Overcoat
+Static
+Effect: The user does not take damage
+from any Weather that would normally
+cause it to take damage.
+Overgrow
+Trigger
+Keyword: Last Chance
+Effect: Grass
+Own Tempo
+Static
+Keyword: Immune
+Effect: Confusion
+Pickpocket
+Trigger - Daily
+Effect: When the user hits an opponent
+that has a Held Item with a Melee
+Move, the user takes that item if it is not
+holding any.
+Pickup
+Cast - Daily
+Keyword: Pickup
+Effect: You may use Pickup at the end
+of any encounter. Roll 1d20, consult the
+Pickup keyword to figure out what you
+find.
+Plus
+Static
+Effect: When an ally with the Ability
+Minus is within 10 meters, they are
+treated as if their Special Attack is raised
+2 Combat Stages. The ally with Minus
+can only have one Plus Ability applied
+to its Special Attack.
+Poison Heal
+Static
+Effect: When Poisoned or Badly
+Poisoned, the pokemon gains 1/8 of its
+full HP each turn instead of losing any
+HP. The pokemon does not have any
+Combat Stages lowered as a result of
+being Poisoned.
+Poison Point
+Trigger - Daily
+Effect: When hit by a melee Move, the
+Pokemon who attacked Poison Point’s
+user is Poisoned.
+Poison Touch
+Static
+Effect: The Pokemon’s Moves with a
+Damage Dice Roll that use the Attack
+Stat, Poison Legal Targets on 15-20. If
+the Move already Poisons on a different
+Accuracy Check, replace it with 15-20.
+Prankster
+Cast - Daily
+Effect: For the remainder of the
+encounter, any Ranged - No Damage,
+Melee - No Damage, Self - No Damage
+or Field - No Damage Moves the user
+knows gain the keyword Interrupt.
+Prankster may not be used with Moves
+that set a Legal Target’s HP to 0.
+Pressure
+Cast - Daily
+Effect: When this Ability is activated,
+all enemies have their Moves set to their
+original frequency if they were able to
+be used more frequently. In addition,
+At-Will moves are now EOT.
+Pure Blooded
+Trigger
+Keyword: Last Chance
+Effect: Dragon
+Pure Power
+Static
+Effect: The Pokemon’s base Attack
+Stat is doubled. This may double any
+bonuses from Nature or Vitamins, but
+not bonuses from Features.
+Quick Feet
+Static
+Effect: When Poisoned, Burned, Frozen
+or put to Sleep, the user’s Speed is raised
+2 Combat Stages. When Paralyzed, the
+user’s Speed is raised 4 Combat Stages.
+When a Pokemon loses the status, their
+Combat Stages are lowered what they
+raised.
+Rain Dish
+Trigger
+Effect: While in Rainy Weather, the
+user gains 1/16 of their full HP at the
+beginning of each of their turns.
+Rattled
+Trigger
+Effect: When hit by Bug, Dark, or Ghost
+Type Move, the user may raise its Speed
+1 Combat Stage.
+Reckless
+Static
+Effect: Submission, Double-Edge, Take
+Down, Jump Kick, Hi Jump Kick, Volt
+Tackle, Wood Hammer, Flare Blitz,
+Brave Bird and Head Smash deal an
+additional +1 STAB when the Pokemon
+with Reckless uses the Move as an
+attack.
+Regenerator
+Cast - Hourly
+Effect: The user instantly heals 1/4th of
+its max HP.
+Rivalry
+Static
+Effect: When battling a same gendered
+foe, the user may raise their Attack 2
+Combat stages. Rivalry may only be
+only applied once per Encounter.
+Rock Head
+Static
+Effect: When the Pokemon uses Volt
+Tackle, Wood Hammer, Submission,
+Take Down, Brave Bird, Double-Edge,
+Flare Blitz, Head Smash, Jump Kick or
+Hi Jump Kick they do not lose any HP
+as a result of the Move’s effect.
+Rough Skin
+Static
+Effect: When hit by a Melee Ranged
+Move, the attacking foe loses 1/8 of
+their full HP. Do not apply weakness or
+resistance. Do not apply stats.
+Run Away
+Cast - Daily
+Effect: The Pokemon escapes an
+encounter without fail. It can escape
+Traps. If Run Away’s user can hold
+another Pokemon or their trainer, they
+are freed from the encounter as well.
+Sand Force
+Trigger - Daily
+Effect: While in Sandstorming Weather,
+the user may activate Sand Force until
+the end of an encounter. While active,
+Sand Force makes the user immune to
+damage from Sandstorms and the user
+deals an additional +1 STAB with Rock,
+Steel and Ground Moves regardless of
+the user’s Type.
+Sand Rush
+Trigger - Daily
+Effect: While in Sandstorming Weather,
+the user may activate Sand Rush until
+the end of an encounter. While active,
+Sand Rush makes the user immune to
+damage from Sandstorms and its Speed
+stat is raised 4 Combat Stages. Do not
+add extra evasion to the user rasiing
+Combat Stages.
+Sand Stream
+Cast - Daily
+Keyword: Sustain, Weather
+Effect: As a Free Action, the Pokemon
+uses the Move Sandstorm. The
+Sandstorm does not go away like
+normal Sandstorm; instead to Sustain,
+the Pokemon must remain out of a
+Poke Ball and must be above 0 HP. The
+Sandstorming effect can be replaced by
+other major Weather conditions.
+Sand Veil
+Cast - Hourly
+Keyword: Sustain
+Effect: Sand Veil may only be activated
+while in Sandstorming Weather. The
+Pokemon creates a pocket of Clear
+Weather around itself and any other
+targets it wants to that is less then
+15-meters away within the Sandstorm.
+These are Sand Bubbles. Any Move that
+tries to target into a Sand Bubble must
+roll +2 to hit during Accuracy Check. To
+Sustain, the Pokemon must remain out
+of a Poke Ball and must be above 0 HP.
+Sap Sipper
+Static
+Effect: The user does not take damage
+from Grass Type Moves. If a Grass Type
+Move hits the user, the user may raise its
+Attack 1 Combat Stage up to once per
+turn.
+Scrappy
+Static
+Effect: Moves the Pokemon uses against
+Ghost Type foes can always hit them.
+Do not apply extra weaknesses or
+resistances. Do not apply Immunities.
+Count Moves those Ghost Type foes
+would usually be Immune to as Neutral
+Damaging Moves.
+Serene Grace
+Static
+Effect: When a Move’s effect has
+something that activates during
+Accuracy Check, but only if you roll
+high enough, all of those checks’
+requirements to activate are reduced by
+3. This does not apply to Critical Hits.
+Shadow Tag
+Cast - Daily
+Effect: Once adjacent to the target, they
+are Trapped. They may still Shift, but
+cannot Shift more then 20-meters from
+Shadow Tag’s user.
+Shed Skin
+Cast - Hourly
+Effect: The Pokemon is cured of
+Paralysis, Freezing, Burns, Poison, and
+Sleep.
+Sheer Force
+Cast - Daily
+Effect: Once used, Sheer Force is in
+effect until the end of the Encounter.
+Whenever you use a move that has a
+secondary effect, which activates during
+Accuracy Check, that effect is ignored.
+If an effect has been ignored, that attack
+now deals an additional +1 STAB.
+Shell Armor
+Static
+Keyword: Immune
+Effect: Critical Hits
+Shield Dust
+Static
+Effect: The effects of damage dealing
+Moves that target the Pokemon with
+Shield Dust are disabled.
+Simple
+Static
+Effect: When the Pokemon’s Combat
+Stages are altered, double the amount
+of Combat Stages they are raised or
+lowered.
+Skill Link
+Static
+Effect: The Pokemon’s Moves with the
+keyword Scatter can be used for their
+maximum amounts of time, even if one
+of the first attempts misses.
+Slow Start
+Static
+Effect: For 3 rounds, the Pokemon’s
+Speed and Attack Stats are halved.
+Sniper
+Static
+Effect: When the Pokemon gets a
+Critical Hit, add an additional Damage
+Dice Roll. This includes any base
+damage in the Damage Dice Roll.
+Snow Cloak
+Cast - Hourly
+Keyword: Sustain
+Effect: Snow Cloak may only be
+activated while in Hailing Weather.
+The Pokemon creates a pocket of Clear
+Weather around itself and any other
+targets it wants to that is less then
+15-meters away within the Hail. These
+are Snow Bubbles. Any Move that tries
+to target into a Snow Bubble must roll
++2 to hit during Accuracy Check. To
+Sustain, the Pokemon must remain out
+of a Poke Ball and must be above 0 HP.
+Snow Warning
+Cast - Hourly
+Keyword: Sustain, Weather
+Effect: As a Free Action, the Pokemon
+uses the Move Hail.The Hail does not
+go away like normal Hail; instead to
+Sustain, the pokemon must remain out
+of a Poke Ball and must be above 0 HP.
+The Hailing effect can be replaced by
+other major Weather conditions.
+Solar Power
+Trigger
+Effect: While in Sunny Weather, the
+Pokemon loses 1/8 of its full HP on its
+turn. When Sunny, its Special Attack
+Stat is increased by 2 Combat Stages.
+Solid Rock
+Static
+Effect: Super Effective Moves that target
+the Pokemon are only regularly effective
+and Super Super Effective Moves that
+target the Pokemon are only Super
+Effective.
+Soundproof
+Static
+Effect: The Pokemon is immune to
+damage caused by and the effects of
+the Moves Bug Buzz, Chatter, Echoed
+Voice, Grasswhistle, Growl, Heal Bell,
+Hyper Voice, Metal Sound, Perish
+Song, Relic Song, Roar, Roar of Time,
+Screech, Sing, Snore, Supersonic and
+Uproar.
+Speed Boost
+Cast - Hourly
+Effect: The Pokemon’s Speed is raised 1
+Combat Stage on each of its turns.
+DELETEStatic
+Trigger - Daily
+Effect: When a foe hits the Pokemon
+with Static with a melee Move, they
+become Paralyzed after damage is dealt.
+Stall
+Static
+Effect: In a round’s queue, a Pokemon
+with Stall is always last. If a Pokemon
+goes to the end of the queue, the
+Pokemon with Stall is still the last to
+move.
+Steadfast
+Trigger
+Effect: When Flinched, the Pokemon’s
+Speed is raised 1 Combat Stage.
+Stench
+Static
+Effect: The Pokemon’s Moves which
+deal damage Flinch Legal Targets on
+19-20. If a move already has a chance
+of Flinching foes, Stench lowers the
+number needed to roll in order to Flinch
+by -2.
+Sticky Hold
+Static
+Effect: The Pokemon’s held items
+cannot be stolen, switched, destroyed or
+dropped.
+Storm Drain
+Static
+Effect: If any other Pokemon within
+25-meters uses a Ranged Water Type
+Move, the Move is drawn to the
+Pokemon with Storm Drain without fail,
+and it cannot miss. This negates Lock-
+On or Mind Reader. This Pokemon is
+immune to damage and effects from
+Water Moves, and each time they are
+hit by an Water Move, the Pokemon’s
+Special Attack is raised 1 Combat Stage.
+Sturdy
+Static
+Effect: The Pokemon is immune to the
+Moves Sheer Cold, Guillotine, Horn
+Drill and Fissure. If any attack would
+lower this Pokemon to 0 HP or less from
+full HP, instead the Pokemon’s HP is set
+to 1.
+Suction Cups
+Static
+Effect: The Pokemon is immune to
+the Moves Roar and Whirlwind. The
+Pokemon is immune to Push effects.
+Super Luck
+Static
+Effect: The Pokemon’s Moves are
+Critical Hits on 18-20. If a Move already
+has an extended Critical Hit range,
+Super Luck extends that range by -2.
+Swarm
+Trigger
+Keyword: Last Chance
+Effect: Bug
+Swift Swim
+Trigger - Hourly
+Effect: While in Rainy Weather, the
+Speed stat of the Pokemon is raised 4
+Combat Stages.
+Synchronize
+Trigger - Hourly
+Effect: When a foe Paralyzes, Freezes,
+Burns, Poisons, or puts the pokemon
+with Synchronize to Sleep, the foe
+is given the same Status effect they
+inflicted.
+Tangled Feet
+Trigger
+Effect: While Confused, the Pokemon’s
+foes must roll +3 during Accuracy
+Check to hit the pokemon with Tangled
+Feet.
+Technician
+Static
+Effect: Moves with the Damage Dice
+Rolls whose Max Damage are less
+than 30 add an additional 2d10 to their
+Damage Dice Roll. Technician may only
+be applied once when used with a Move
+that has Scatter.
+Telepathy
+Static
+Effect: Whenever the Pokemon is a
+Legal Target, if the offender whose
+Move is hitting the Pokemon does not
+want the Pokemon to be considered a
+Legal Target; it is not.
+Teravolt
+Cast - Hourly
+Effect: The Target’s Abilities are
+Disabled. They cannot be used until the
+end of the encounter.
+Thick Fat
+Static
+Effect: The Pokemon is treated as if they
+are Resistant to Fire Type Moves and Ice
+Type Moves.
+Tinted Lens
+Static
+Effect: The user’s Resisted Moves
+instead deal Neutral Damage. The user’s
+Doubly Resisted Moves are instead
+Resisted.
+Torrent
+Trigger
+Keyword: Last Chance
+Effect: Water
+Toxic Boost
+Static
+Effect: When Poisoned or Badly
+Poisoned, the user’s Attack is raised by 2
+Combat Stages. If the user is cured of its
+Poisoning, its Attack stat is lowered by 2
+Combat Stages.
+Trace
+Cast - Hourly
+Keyword: Sustain
+Effect: The Pokemon gains the Ability
+of a target within 10-meters of the
+Pokemon with Trace. To sustain, the
+Pokemon must remain out of a Poke
+Ball and above 0 HP.
+Truant
+Static
+Effect: Roll 1d20 when a Pokemon with
+Truant tries to Shift and/or use a Move;
+on 1-8, the Pokemon does nothing;
+on 9-20, the Pokemon uses its turn
+normally.
+Turboblaze
+Cast - Hourly
+Effect: The Target’s Abilities are
+Disabled. They cannot be used until the
+end of the encounter.
+Unaware
+Static
+Effect: When the pokemon is attacking
+or being attacked, it ignores all Combat
+Stages on the relevant target or attacker
+Unbreakable
+Trigger
+Keywords: Last Chance
+Effect: Steel
+Unburden
+Trigger
+Effect: After consuming a held item, the
+Pokemon’s Speed is raised 2 Combat
+Stages.
+Unnerve
+Static
+Effect: During battle, as long as you
+have a line of sight to a foe, that foe may
+not eat or drink anything. This includes
+berries, vitamins, or anything else that
+must be eaten to affect the foe.
+Venom
+Trigger
+Keywords: Last Chance
+Effect: Poison
+Victory Star
+Static
+Effect: Any allied Pokemon in the
+encounter will require -2 to hit during
+any Accuracy Check.
+Vital Spirit
+Static
+Keywords: Immune
+Effect: Sleep
+Volt Absorb
+Trigger
+Effect: After calculating damage that
+would be dealt from an Electric Type
+Move that hit the Pokemon, heal the
+Pokemon half of what it would have
+been dealt, instead of damaging the
+Pokemon. Do this before applying
+Defense but after applying weakness and
+resistance.
+Water Absorb
+Trigger
+Effect: After calculating damage that
+would be dealt from an Water Type
+Move that hit the Pokemon, heal the
+Pokemon half of what it would have
+been dealt instead of damaging the
+Pokemon. Do this before applying
+Defense but after applying weakness and
+resistance.
+Water Veil
+Static
+Keywords: Immune
+Effect: Burns
+Weak Armor
+Trigger
+Effect: Whenever the user is hit by an
+attack that consults the user’s Defense
+stat, the user may lower its Defense
+Combat Stage one level in order to raise
+its Speed Combat Stage one level.
+White Smoke
+Static
+Effect: The user’s Combat Stages may
+not be lowered.
+Wonder Guard
+Static
+Effect: Only damaging Moves that are
+Super-Effective hit the Pokemon with
+Wonder Guard, all other moves always
+deal 0 damage. Wonder Guard does not
+work if the Pokemon who has it has no
+weaknesses. Only Shedinja and Arceus
+may ever have the ability Wonder
+Guard. Wonder Guard loses its effect if
+the user has no weaknesses.
+Wonder Skin
+Static
+Effect: Whenever a Ranged - No
+Damage or Melee - No Damage move
+that causes Paralysis, Poisoning, Bad
+Poisoning, a Burn, Sleep, Confusion,
+Attraction, Disable, or any other major
+or minor status affliction is used against
+this Pokemon and the Move successfully
+hits, flip a coin. On heads, this Pokemon
+ignores the affliction it would have
+received; on tails the Pokemon is hit as
+usual.
+Zen Mode
+Cast - At-Will
+Effect: Keep two sets of Base Stats for
+Darmanitan, the first set of Base Stats
+are its normal stats while the second will
+be referred to during Zen Mode. The
+HP Stat for both sets of Base Stats must
+be the same. If Darmanitan has its Base
+Stats altered in any way, both sets of
+Base Stats are affected. As a free action,
+Darmanitan may activate Zen Mode
+if it is at less than 50% of its full HP.
+Darmanitan may change back from Zen
+Mode as a free action. Darmanitan may
+switch from one form to another once
+per encounter.
